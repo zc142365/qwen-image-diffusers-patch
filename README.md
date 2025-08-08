@@ -1,5 +1,17 @@
 # qwen-image-diffusers-patch
 
+## En
+
+Here is the English translation of your message:
+
+By using diffusers_search.py, you can locate the current path of the diffusers package in your Python environment.
+
+Then, overwrite pipeline_loading_utils.py and pipeline_utils.py in that location.
+
+After that, you can run example.py to execute the Qwen-Image model with quantized options using two GPUs.
+
+## Ko
+
 현재 python 환경에 있는 diffusers의 경로를
 diffusers_search.py로 찾고
 
