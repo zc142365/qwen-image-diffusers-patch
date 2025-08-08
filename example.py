@@ -32,7 +32,7 @@ quantization_config = PipelineQuantizationConfig(
 
 pipe = DiffusionPipeline.from_pretrained(
 
-"/mnt/d/project/fine-tune/Qwen-Image",
+"Qwen/Qwen-Image",
 
 torch_dtype=torch.bfloat16,
 
