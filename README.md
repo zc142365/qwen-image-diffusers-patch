@@ -2,8 +2,6 @@
 
 ## En
 
-Here is the English translation of your message:
-
 By using diffusers_search.py, you can locate the current path of the diffusers package in your Python environment.
 
 Then, overwrite pipeline_loading_utils.py and pipeline_utils.py in that location.
